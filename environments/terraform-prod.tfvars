@@ -1,0 +1,6 @@
+location="eastus"
+rg-prefix="rg-multienv-demo"
+rg-name="rg-multienv-demo-prod"
+storage-account-name="staticwebsite100prod"
+index_document="index.html"
+source_content="<h1>This is static content coming from the Production Terraform</h1>"
